@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Game-Lost:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_Lost_jar</output-path>
+    <root id="archive" name="PointClickGame.jar">
+      <element id="module-output" name="Lost" />
+    </root>
+  </artifact>
+</component>

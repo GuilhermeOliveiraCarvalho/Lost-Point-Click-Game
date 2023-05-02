@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lost:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lost_jar</output-path>
+    <root id="archive" name="Lost.jar">
+      <element id="module-output" name="Lost" />
+    </root>
+  </artifact>
+</component>
